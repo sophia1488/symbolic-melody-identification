@@ -1,0 +1,437 @@
+=== ../Dataset/pop909_aligned/test/343.mid ===
+threshold: 0.1839003674685955
+tp:396, fp:90, fn:24, tn:990
+acc: 0.924
+
+=== ../Dataset/pop909_aligned/test/449.mid ===
+threshold: 0.43906981498003006
+tp:285, fp:245, fn:88, tn:1445
+acc: 0.8385845855550169
+
+=== ../Dataset/pop909_aligned/test/125.mid ===
+threshold: 0.2435935139656067
+tp:274, fp:365, fn:68, tn:1341
+acc: 0.78857421875
+
+=== ../Dataset/pop909_aligned/test/573.mid ===
+threshold: 0.5258803367614746
+tp:128, fp:131, fn:161, tn:1148
+acc: 0.8137755102040817
+
+=== ../Dataset/pop909_aligned/test/766.mid ===
+threshold: 0.4204583615064621
+tp:256, fp:165, fn:59, tn:1059
+acc: 0.8544509421702404
+
+=== ../Dataset/pop909_aligned/test/052.mid ===
+threshold: 0.41417959332466125
+tp:261, fp:31, fn:71, tn:775
+acc: 0.9103690685413005
+
+=== ../Dataset/pop909_aligned/test/884.mid ===
+threshold: 0.43203525245189667
+tp:148, fp:131, fn:106, tn:1284
+acc: 0.8579988016776513
+
+=== ../Dataset/pop909_aligned/test/290.mid ===
+threshold: 0.43350711464881897
+tp:175, fp:85, fn:81, tn:787
+acc: 0.8528368794326241
+
+=== ../Dataset/pop909_aligned/test/877.mid ===
+threshold: 0.16954559087753296
+tp:288, fp:231, fn:17, tn:859
+acc: 0.8222222222222222
+
+=== ../Dataset/pop909_aligned/test/839.mid ===
+threshold: 0.19787368178367615
+tp:335, fp:291, fn:12, tn:1084
+acc: 0.8240418118466899
+
+=== ../Dataset/pop909_aligned/test/666.mid ===
+threshold: 0.3484666422009468
+tp:307, fp:253, fn:63, tn:1369
+acc: 0.8413654618473896
+
+=== ../Dataset/pop909_aligned/test/683.mid ===
+threshold: 0.23433126509189606
+tp:240, fp:370, fn:60, tn:1375
+acc: 0.7897310513447433
+
+=== ../Dataset/pop909_aligned/test/036.mid ===
+threshold: 0.15246420726180077
+tp:403, fp:193, fn:25, tn:1015
+acc: 0.8667481662591687
+
+=== ../Dataset/pop909_aligned/test/091.mid ===
+threshold: 0.5654587894678116
+tp:128, fp:77, fn:184, tn:995
+acc: 0.8114161849710982
+
+=== ../Dataset/pop909_aligned/test/517.mid ===
+threshold: 0.2090180106461048
+tp:290, fp:219, fn:35, tn:1345
+acc: 0.8655373213340392
+
+=== ../Dataset/pop909_aligned/test/465.mid ===
+threshold: 0.32758576422929764
+tp:245, fp:102, fn:115, tn:1154
+acc: 0.8657178217821783
+
+=== ../Dataset/pop909_aligned/test/278.mid ===
+threshold: 0.16824328619986773
+tp:375, fp:136, fn:34, tn:1381
+acc: 0.9117341640706127
+
+=== ../Dataset/pop909_aligned/test/726.mid ===
+threshold: 0.5014762580394745
+tp:321, fp:57, fn:101, tn:815
+acc: 0.8778979907264297
+
+=== ../Dataset/pop909_aligned/test/439.mid ===
+threshold: 0.375291645526886
+tp:295, fp:194, fn:89, tn:1466
+acc: 0.8615459882583171
+
+=== ../Dataset/pop909_aligned/test/444.mid ===
+threshold: 0.2296382337808609
+tp:133, fp:129, fn:57, tn:708
+acc: 0.818889970788705
+
+=== ../Dataset/pop909_aligned/test/431.mid ===
+threshold: 0.22677072137594223
+tp:262, fp:256, fn:38, tn:1305
+acc: 0.8420204191295003
+
+=== ../Dataset/pop909_aligned/test/660.mid ===
+threshold: 0.3330123871564865
+tp:256, fp:236, fn:71, tn:951
+acc: 0.797225891677675
+
+=== ../Dataset/pop909_aligned/test/591.mid ===
+threshold: 0.35877716541290283
+tp:162, fp:44, fn:70, tn:806
+acc: 0.8946395563770795
+
+=== ../Dataset/pop909_aligned/test/583.mid ===
+threshold: 0.29348134249448776
+tp:239, fp:124, fn:41, tn:844
+acc: 0.8677884615384616
+
+=== ../Dataset/pop909_aligned/test/692.mid ===
+threshold: 0.399353202432394
+tp:288, fp:145, fn:47, tn:1334
+acc: 0.8941565600882029
+
+=== ../Dataset/pop909_aligned/test/596.mid ===
+threshold: 0.4695090353488922
+tp:165, fp:98, fn:255, tn:1903
+acc: 0.8541924824452706
+
+=== ../Dataset/pop909_aligned/test/521.mid ===
+threshold: 0.35562849044799805
+tp:284, fp:125, fn:64, tn:1196
+acc: 0.8867585380467345
+
+=== ../Dataset/pop909_aligned/test/629.mid ===
+threshold: 0.23617451637983322
+tp:234, fp:216, fn:48, tn:1173
+acc: 0.8420107719928187
+
+=== ../Dataset/pop909_aligned/test/875.mid ===
+threshold: 0.38282737135887146
+tp:183, fp:161, fn:133, tn:1422
+acc: 0.8451816745655608
+
+=== ../Dataset/pop909_aligned/test/551.mid ===
+threshold: 0.5953096300363541
+tp:79, fp:24, fn:133, tn:717
+acc: 0.8352570828961176
+
+=== ../Dataset/pop909_aligned/test/303.mid ===
+threshold: 0.5494344234466553
+tp:327, fp:135, fn:80, tn:1533
+acc: 0.8963855421686747
+
+=== ../Dataset/pop909_aligned/test/687.mid ===
+threshold: 0.42846986651420593
+tp:235, fp:247, fn:166, tn:1513
+acc: 0.8088847755668672
+
+=== ../Dataset/pop909_aligned/test/163.mid ===
+threshold: 0.2739635780453682
+tp:170, fp:193, fn:50, tn:1248
+acc: 0.8537025888019265
+
+=== ../Dataset/pop909_aligned/test/600.mid ===
+threshold: 0.45582714676856995
+tp:251, fp:41, fn:69, tn:982
+acc: 0.9180938198064036
+
+=== ../Dataset/pop909_aligned/test/027.mid ===
+threshold: 0.1809643730521202
+tp:305, fp:124, fn:23, tn:1227
+acc: 0.912447885646218
+
+=== ../Dataset/pop909_aligned/test/179.mid ===
+threshold: 0.2575143352150917
+tp:276, fp:160, fn:17, tn:1049
+acc: 0.8821571238348869
+
+=== ../Dataset/pop909_aligned/test/067.mid ===
+threshold: 0.18346288241446018
+tp:325, fp:97, fn:20, tn:1242
+acc: 0.9305225653206651
+
+=== ../Dataset/pop909_aligned/test/748.mid ===
+threshold: 0.562372013926506
+tp:123, fp:86, fn:148, tn:968
+acc: 0.8233962264150944
+
+=== ../Dataset/pop909_aligned/test/656.mid ===
+threshold: 0.5194887071847916
+tp:328, fp:62, fn:98, tn:1457
+acc: 0.9177377892030848
+
+=== ../Dataset/pop909_aligned/test/205.mid ===
+threshold: 0.4025082588195801
+tp:219, fp:170, fn:102, tn:1125
+acc: 0.8316831683168316
+
+=== ../Dataset/pop909_aligned/test/648.mid ===
+threshold: 0.5636803656816483
+tp:140, fp:50, fn:95, tn:879
+acc: 0.8754295532646048
+
+=== ../Dataset/pop909_aligned/test/567.mid ===
+threshold: 0.3098200261592865
+tp:167, fp:214, fn:85, tn:898
+acc: 0.780791788856305
+
+=== ../Dataset/pop909_aligned/test/610.mid ===
+threshold: 0.5163438767194748
+tp:195, fp:102, fn:139, tn:1092
+acc: 0.8422774869109948
+
+=== ../Dataset/pop909_aligned/test/878.mid ===
+threshold: 0.2245200127363205
+tp:234, fp:188, fn:18, tn:1175
+acc: 0.8724458204334365
+
+=== ../Dataset/pop909_aligned/test/870.mid ===
+threshold: 0.3255763649940491
+tp:354, fp:282, fn:86, tn:1209
+acc: 0.8094251683065768
+
+=== ../Dataset/pop909_aligned/test/011.mid ===
+threshold: 0.5720984190702438
+tp:98, fp:45, fn:316, tn:1411
+acc: 0.8069518716577541
+
+=== ../Dataset/pop909_aligned/test/018.mid ===
+threshold: 0.24092496186494827
+tp:205, fp:179, fn:4, tn:893
+acc: 0.8571428571428571
+
+=== ../Dataset/pop909_aligned/test/048.mid ===
+threshold: 0.22178500145673752
+tp:181, fp:133, fn:8, tn:776
+acc: 0.8715846994535519
+
+=== ../Dataset/pop909_aligned/test/378.mid ===
+threshold: 0.25515852123498917
+tp:283, fp:155, fn:74, tn:811
+acc: 0.8269085411942555
+
+=== ../Dataset/pop909_aligned/test/220.mid ===
+threshold: 0.5283294320106506
+tp:72, fp:63, fn:222, tn:1118
+acc: 0.8067796610169492
+
+=== ../Dataset/pop909_aligned/test/834.mid ===
+threshold: 0.23956847563385963
+tp:379, fp:213, fn:62, tn:1049
+acc: 0.8385202583675866
+
+=== ../Dataset/pop909_aligned/test/077.mid ===
+threshold: 0.364794060587883
+tp:316, fp:148, fn:126, tn:1365
+acc: 0.859846547314578
+
+=== ../Dataset/pop909_aligned/test/718.mid ===
+threshold: 0.3131835013628006
+tp:359, fp:226, fn:72, tn:1096
+acc: 0.8300057045065602
+
+=== ../Dataset/pop909_aligned/test/106.mid ===
+threshold: 0.4816877692937851
+tp:150, fp:60, fn:186, tn:1819
+acc: 0.8889390519187359
+
+=== ../Dataset/pop909_aligned/test/395.mid ===
+threshold: 0.6288898885250092
+tp:175, fp:37, fn:233, tn:1623
+acc: 0.8694390715667312
+
+=== ../Dataset/pop909_aligned/test/492.mid ===
+threshold: 0.35193660110235214
+tp:276, fp:152, fn:86, tn:1432
+acc: 0.8776978417266187
+
+=== ../Dataset/pop909_aligned/test/148.mid ===
+threshold: 0.3069071155041456
+tp:188, fp:101, fn:180, tn:940
+acc: 0.8005677785663591
+
+=== ../Dataset/pop909_aligned/test/436.mid ===
+threshold: 0.5449454933404922
+tp:179, fp:89, fn:133, tn:794
+acc: 0.8142259414225942
+
+=== ../Dataset/pop909_aligned/test/372.mid ===
+threshold: 0.36836524307727814
+tp:308, fp:147, fn:66, tn:1083
+acc: 0.8672069825436409
+
+=== ../Dataset/pop909_aligned/test/804.mid ===
+threshold: 0.5038952827453613
+tp:184, fp:75, fn:86, tn:1185
+acc: 0.8947712418300654
+
+=== ../Dataset/pop909_aligned/test/664.mid ===
+threshold: 0.22141756117343903
+tp:418, fp:241, fn:9, tn:1043
+acc: 0.8538866160140269
+
+=== ../Dataset/pop909_aligned/test/559.mid ===
+threshold: 0.5608355551958084
+tp:100, fp:19, fn:111, tn:1070
+acc: 0.9
+
+=== ../Dataset/pop909_aligned/test/784.mid ===
+threshold: 0.17673694342374802
+tp:501, fp:389, fn:8, tn:1306
+acc: 0.8198729582577132
+
+=== ../Dataset/pop909_aligned/test/161.mid ===
+threshold: 0.3008204735815525
+tp:188, fp:114, fn:53, tn:594
+acc: 0.8240252897787145
+
+=== ../Dataset/pop909_aligned/test/313.mid ===
+threshold: 0.45213350653648376
+tp:305, fp:74, fn:89, tn:1010
+acc: 0.8897158322056834
+
+=== ../Dataset/pop909_aligned/test/177.mid ===
+threshold: 0.606056809425354
+tp:162, fp:28, fn:341, tn:1335
+acc: 0.8022508038585209
+
+=== ../Dataset/pop909_aligned/test/649.mid ===
+threshold: 0.5691182911396027
+tp:230, fp:87, fn:169, tn:1395
+acc: 0.8639021796916534
+
+=== ../Dataset/pop909_aligned/test/322.mid ===
+threshold: 0.35241955518722534
+tp:377, fp:155, fn:30, tn:1069
+acc: 0.8865726548129982
+
+=== ../Dataset/pop909_aligned/test/548.mid ===
+threshold: 0.30008815228939056
+tp:262, fp:123, fn:141, tn:1164
+acc: 0.8437869822485207
+
+=== ../Dataset/pop909_aligned/test/150.mid ===
+threshold: 0.2580847963690758
+tp:370, fp:103, fn:31, tn:1117
+acc: 0.9173349784083898
+
+=== ../Dataset/pop909_aligned/test/737.mid ===
+threshold: 0.3642295002937317
+tp:354, fp:144, fn:113, tn:1086
+acc: 0.8485562757807896
+
+=== ../Dataset/pop909_aligned/test/618.mid ===
+threshold: 0.4429621398448944
+tp:262, fp:43, fn:56, tn:1058
+acc: 0.9302325581395349
+
+=== ../Dataset/pop909_aligned/test/214.mid ===
+threshold: 0.5841207951307297
+tp:198, fp:68, fn:128, tn:1490
+acc: 0.8959660297239915
+
+=== ../Dataset/pop909_aligned/test/821.mid ===
+threshold: 0.38905099034309387
+tp:297, fp:90, fn:93, tn:982
+acc: 0.874829001367989
+
+=== ../Dataset/pop909_aligned/test/635.mid ===
+threshold: 0.2948606088757515
+tp:355, fp:279, fn:68, tn:1504
+acc: 0.842701722574796
+
+=== ../Dataset/pop909_aligned/test/828.mid ===
+threshold: 0.2837526723742485
+tp:329, fp:171, fn:24, tn:1244
+acc: 0.8897058823529411
+
+=== ../Dataset/pop909_aligned/test/061.mid ===
+threshold: 0.37491919100284576
+tp:252, fp:58, fn:60, tn:925
+acc: 0.9088803088803089
+
+=== ../Dataset/pop909_aligned/test/190.mid ===
+threshold: 0.3242936283349991
+tp:179, fp:177, fn:101, tn:1997
+acc: 0.8867155664221679
+
+=== ../Dataset/pop909_aligned/test/114.mid ===
+threshold: 0.2022773064672947
+tp:261, fp:119, fn:26, tn:1038
+acc: 0.899584487534626
+
+=== ../Dataset/pop909_aligned/test/545.mid ===
+threshold: 0.341174378991127
+tp:251, fp:364, fn:139, tn:1638
+acc: 0.7897157190635451
+
+=== ../Dataset/pop909_aligned/test/467.mid ===
+threshold: 0.2347014769911766
+tp:387, fp:302, fn:29, tn:1167
+acc: 0.8244031830238727
+
+=== ../Dataset/pop909_aligned/test/284.mid ===
+threshold: 0.2857859395444393
+tp:257, fp:202, fn:81, tn:1312
+acc: 0.8471922246220303
+
+=== ../Dataset/pop909_aligned/test/541.mid ===
+threshold: 0.3036787733435631
+tp:250, fp:123, fn:75, tn:1047
+acc: 0.8675585284280937
+
+=== ../Dataset/pop909_aligned/test/445.mid ===
+threshold: 0.17818470299243927
+tp:346, fp:315, fn:25, tn:907
+acc: 0.7865662272441933
+
+=== ../Dataset/pop909_aligned/test/058.mid ===
+threshold: 0.2970654107630253
+tp:232, fp:80, fn:23, tn:992
+acc: 0.9223813112283346
+
+=== ../Dataset/pop909_aligned/test/842.mid ===
+threshold: 0.305711954832077
+tp:291, fp:322, fn:19, tn:1668
+acc: 0.8517391304347826
+
+
+ OVERALL
+tp:21851, fp:13088, fn:7442, tn:100196
+acc: 0.8560076309643211
+
+acc (song average): 0.8568687837874369
+
