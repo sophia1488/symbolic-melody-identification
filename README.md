@@ -5,6 +5,13 @@ Its official version can be found [here](https://github.com/LIMUNIMI/Symbolic-Me
 
 This repo is trained and evaluated on POP909 Dataset (in 4/4 time signature), to serve as a baseline of [MIDI-BERT](https://github.com/wazenmai/MIDI-BERT).  
 
+Note that some modifications have been made to improve the performance (different from the paper):
+* Adagrad -> Adam
+* Sigmoid -> ReLU
+* mean square error -> binary cross entropy
+* Add dropout layers
+* I didn't add regularization for the loss function, since the L2 regularization is already included in most optimizers and can be controlled with the weight_decay parameter, as being pointed out [here](https://discuss.pytorch.org/t/simple-l2-regularization/139).
+
 ## Evaluation
 `python3 predict.py --ckpt=result/$name/CNN-melody-identification.pth`
 
