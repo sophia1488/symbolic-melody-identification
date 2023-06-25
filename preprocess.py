@@ -66,9 +66,9 @@ def read_file(filename, score_list, melody_list):
     midi_obj = mid_parser.MidiFile(filename)
     
     # separate melody & accompaniment notelist: set melody = 0, accompaniment = 1
-    melody = [NOTE(i.start, i.end, i.pitch, i.velocity, 0) for i in midi_obj.instruments[0].notes]
-    acc = midi_obj.instruments[1].notes + midi_obj.instruments[2].notes
-    acc = [NOTE(i.start, i.end, i.pitch, i.velocity, 1) for i in acc]
+    melody = midi_obj.instruments[0].notes + midi_obj.instruments[1].notes
+    melody = [NOTE(i.start, i.end, i.pitch, i.velocity, 0) for i in melody]
+    acc = [NOTE(i.start, i.end, i.pitch, i.velocity, 1) for i in midi_obj.instruments[2].notes]
     notelist = melody+acc
     notelist = sorted(notelist, key=lambda n: n.start)
     
